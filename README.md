@@ -4,7 +4,7 @@ Aaaaaaugh Sound Granulizer | Funny Meme App
 # Install
 + clone
 ```bash
-git clone https://github.com/Izolabela/Aaugh && cd Aaugh && chmod +x install.sh 
+git clone https://github.com/Kourva/Aaugh && cd Aaugh && chmod +x install.sh 
 ```
 + requirements
 ```bash
